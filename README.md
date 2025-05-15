@@ -7,3 +7,4 @@ row #4
 row #5 main
 row #6 stage
 row #7 stage
+row #8 stage
