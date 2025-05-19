@@ -32,3 +32,4 @@ row #19 f2
 row #20 f3
 row #20 f3 remote
 row #21 f3
+row #22 f3 remote
